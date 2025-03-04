@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dirgant
+- 👋 Hi, I’m @Dirga
 - 👀 I’m interested in chiptune
 - 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on everyone whom know more about JavaScript :/
