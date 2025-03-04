@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dirga
 - 👀 I’m interested in chiptune
 - 🌱 I’m currently learning back-end development
-- 💞️ I’m looking to collaborate on everyone whom know more about JavaScript :/
+- 💞️ I’m looking to collaborate on everyone whom know more about Algorithms
 - 😄 Pronouns: he/him
 <!---
 Dirgant/Dirgant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
