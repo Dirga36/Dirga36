@@ -8,47 +8,6 @@
 </div>
 
 <!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Dirga36">
-    <img src="https://img.shields.io/github/contributors/Dirga36/Dirga36?color=blue" alt="Contributors" />
-  </a>
-  <a href="https://github.com/Dirga36?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Dirga36?style=social" alt="GitHub stars" />
-  </a>
-</p>
-
-## 🛠️ Skills
-
-| Languages | Frameworks | Tools & Platforms |
-| ----------------------- | -------------------- | ----------------- |
-| PHP, JavaScript, Python | Laravel, NextJS, Vue | Git, GitHub CI/CD |
-
-<h2>🚀 Featured Projects</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Laravel CMS App</strong></td>
-      <td>CMS with robust system to handle user authentication, content management, and basic CRUD operations.</td>
-      <td><a href="https://github.com/Dirga36/belajar-laravel.V2.git">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><strong>TaskTracker</strong></td>
-      <td>A simple command-line interface (CLI) tool to manage tasks.</td>
-      <td><a href="https://github.com/Dirga36/Task-Tracker.git">GitHub</a></td>
-    </tr>
-  </tbody>
-</table>
-
-## 📊 GitHub Stats
-
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 1rem;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Dirga36&theme=monokai&show_icons=true&hide_border=false&count_private=true"
@@ -58,6 +17,4 @@
 ## 📄 [My Portfolio](https://dirga36.github.io/Dirga36/)
 
 ## 📞 Contact
-
 - 📫 Email me: <fuaddabbad@gmail.com>
-- 🔗 [LinkedIn](httwww.linkedin.com/in/fu-ad-husnan-10481a30b)
