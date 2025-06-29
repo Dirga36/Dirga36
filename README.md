@@ -4,14 +4,14 @@
       alt="Typing SVG" /></a>
 </div>
 <div align="center">
-  <img src="the_gif.gif" />
-</div>
-
-<!-- Badges -->
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 1rem;">
-  <img
+  <div>
+    <img src="the_gif.gif" />
+  </div>
+  <div>
+    <img
     src="https://github-readme-stats.vercel.app/api?username=Dirga36&theme=monokai&show_icons=true&hide_border=false&count_private=true"
     alt="GitHub Stats" />
+  </div>
 </div>
 
 ## 📄 [My Portfolio](https://dirga36.github.io/Dirga36/)
