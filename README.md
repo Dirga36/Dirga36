@@ -23,14 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<div align="center">
-    
-![Dirga36's Stats](https://github-readme-stats.vercel.app/api?username=Dirga36&theme=monokai&show_icons=true&hide_border=false&count_private=false)
-![Dirga36's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dirga36&theme=monokai&hide_border=false)
-
-</div>
+<p align="left"> 
 
 ![](https://img.shields.io/badge/PHP--4f5b93?style=flat&labelColor=grey&logo=php&logoColor=white&link=php.net)
 ![](https://img.shields.io/badge/Python--ffe05e?style=flat&labelColor=grey&logo=python&logoColor=blue&cacheSeconds=3603&link=python.org)
@@ -39,3 +32,12 @@
 ![](https://img.shields.io/badge/Django--0c4b33?style=flat&labelColor=grey&logo=django&cacheSeconds=3603&link=djangoproject.com)
 ![](https://img.shields.io/badge/Scikit--learn--0b4862?style=flat&logo=scikitlearn&logoColor=orange&link=scikit-learn.org)
 ![](https://img.shields.io/badge/Tensorflow--blue?style=flat&logo=tensorflow&logoColor=orange&link=tensorflow.org)
+
+ </p>
+
+<div align="center">
+    
+![Dirga36's Stats](https://github-readme-stats.vercel.app/api?username=Dirga36&theme=monokai&show_icons=true&hide_border=false&count_private=false)
+![Dirga36's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dirga36&theme=monokai&hide_border=false)
+
+</div>
