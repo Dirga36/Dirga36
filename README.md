@@ -1,14 +1,10 @@
 <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF1A&random=true&width=435&lines=Hello+I'm+Fu'ad;I+likes+coding+and+AI+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;You+can+call+me+by+my+username)](https://git.io/typing-svg)
-    
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16FF1E&center=true&vCenter=true&width=435&lines=Hello..+my+name+is+Fu'ad;But%2C+you+may+call+me+Dirga;I+likes+coding+and+AI;If+today's+heat+is+105%C2%B0C..;I'd+like+to+drink+a+distilled+water..)](https://git.io/typing-svg)
+
 </div>
 
-- 🌱 I’m currently learning **Wordpress Plugin Development**
-
-- 👨‍💻 All of my projects are available at [https://dirga36.github.io/Dirga36/](https://dirga36.github.io/Dirga36/)
-
-- 💬 Ask me about **AI, Coding, Memes**
+- 👨‍💻 Check my projects, available at [dirga36.github.io/Dirga36](https://dirga36.github.io/Dirga36/)
 
 - 📫 How to reach me **fuaddabbad@gmail.com**
 
@@ -23,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
+<div align="left"> 
 
 ![](https://img.shields.io/badge/PHP--4f5b93?style=flat&labelColor=grey&logo=php&logoColor=white&link=php.net)
 ![](https://img.shields.io/badge/Python--ffe05e?style=flat&labelColor=grey&logo=python&logoColor=blue&cacheSeconds=3603&link=python.org)
@@ -33,7 +29,7 @@
 ![](https://img.shields.io/badge/Scikit--learn--0b4862?style=flat&logo=scikitlearn&logoColor=orange&link=scikit-learn.org)
 ![](https://img.shields.io/badge/Tensorflow--blue?style=flat&logo=tensorflow&logoColor=orange&link=tensorflow.org)
 
- </p>
+ </div>
 
 <div align="center">
     
