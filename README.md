@@ -26,8 +26,6 @@
 ![](https://img.shields.io/badge/MySQL--f29111?style=flat&labelColor=grey&logo=mysql&logoColor=white&cacheSeconds=3603&link=mysql.com)
 ![](https://img.shields.io/badge/PostgreSQL--6699c3?style=flat&labelColor=grey&logo=postgresql&logoColor=8bb3ff&cacheSeconds=3603&link=postgresql.org)
 ![](https://img.shields.io/badge/Django--0c4b33?style=flat&labelColor=grey&logo=django&cacheSeconds=3603&link=djangoproject.com)
-![](https://img.shields.io/badge/Scikit--learn--0b4862?style=flat&logo=scikitlearn&logoColor=orange&link=scikit-learn.org)
-![](https://img.shields.io/badge/Tensorflow--blue?style=flat&logo=tensorflow&logoColor=orange&link=tensorflow.org)
 
  </div>
 
