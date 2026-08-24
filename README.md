@@ -1,1 +1,1 @@
-![froggy-is-funny](enamorados-froggy.gif)
+<img src="enamorados-froggy.gif" alt="froggy-is-funny">
