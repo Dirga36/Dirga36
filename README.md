@@ -7,7 +7,7 @@
 <img src="https://assets.tryhackme.com/room-badges/c0c602980a802943b53879e7aad309cf.png" alt="TryHackMe">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake-light.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
