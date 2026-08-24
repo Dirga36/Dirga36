@@ -6,6 +6,11 @@
 <img src="https://assets.tryhackme.com/room-badges/c09d78cfd34584a607b3bb44d552640d.png" alt="TryHackMe">
 <img src="https://assets.tryhackme.com/room-badges/c0c602980a802943b53879e7aad309cf.png" alt="TryHackMe">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <img src="enamorados-froggy.gif" width="9999999999" alt="froggy-is-funny">
 <img src="hoarder-alex-bbq-ena.gif" width="9999999999" alt="hoarder-alex-gg">
 <img src="mago-meme.gif" width="9999999999" alt="'mago'">
